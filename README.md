@@ -18,8 +18,7 @@ This app helps users request blood, donate blood, and connect with nearby donors
 
 # Demo Video
 
-Youtube  https://youtube.com/your-demo-video-link
-
+Youtube  https://youtube.com/shorts/WgrPojtJjGI?si=aLVWekmZJG-hA1CA
 
 
 # Features
@@ -69,14 +68,6 @@ Google Fonts
 
 
 Flutter Developer
-
-
-
-
-
-
-
-
 
 
 # Show Your Support
