@@ -1,6 +1,6 @@
 # Blood Donor App
 
-A complete Blood Donor mobile application built with Flutter and Firebase.
+A complete Blood Donor mobile application built with Flutter and Firebase with animation.
 
 This app helps users request blood, donate blood, and connect with nearby donors during emergencies.
 
